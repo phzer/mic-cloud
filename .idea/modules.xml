@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mic-cloud.iml" filepath="$PROJECT_DIR$/.idea/mic-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mic-demo/mic-demo.iml" filepath="$PROJECT_DIR$/mic-demo/mic-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mic-docs/mic-docs.iml" filepath="$PROJECT_DIR$/mic-docs/mic-docs.iml" />
+    </modules>
+  </component>
+</project>
